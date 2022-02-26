@@ -1,4 +1,4 @@
-# Weekly Challenge 06: Timing Multiplication Algorithms
+# Weekly Challenge 07: Graph Algorithms
 # CS 412 Algorithms: Design and Analysis, Spring 2022
 ***
 
@@ -8,7 +8,7 @@ Weekly challenges invite you to critically engage with the topics covered up to 
 
 The task for this challenge is explained in the accompanying prompt which is to be compiled in LaTeX. You will enter your solution in the indicated space in the same file. Make sure to include any supporting files needed for successful compilation. Your file at the time of the submission deadline will be taken to be your submission.
 
-_Deadline_: 2359h on Monday, 21 February.
+_Deadline_: 2359h on Tuesday, 1 March.
 
 For discussion on the challenge, please use the related Canvas discussion thread.
 
